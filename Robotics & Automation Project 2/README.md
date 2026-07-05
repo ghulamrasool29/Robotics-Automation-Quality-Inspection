@@ -44,6 +44,8 @@ Robotics & Automation Project 2
 └── output
     ├── sample1_result.jpg
     └── sample2_result.jpg
+
+
 ## How to Run
 
 1. Install the required libraries.
